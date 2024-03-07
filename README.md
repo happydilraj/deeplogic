@@ -15,3 +15,5 @@ This Java project uses Jsoup and Spring Boot to scrape top headlines from the Ti
    git clone <repository_url>
    cd deeplogic
 
+2. **Install Jsoup to run the file**
+
